@@ -4,7 +4,7 @@ DeepDive Sentinel is a Windows network diagnostics and monitoring tool that help
 
 ## Download
 Go to **Releases** and download the latest installer:
-- DeepDiveSentinel-setup-<version>.exe
+- DeepDiveSentinel-Setup-v0.1.0-beta.exe
 
 ## Verify download (recommended)
 This project publishes checksums in `SHA256SUMS.txt`.
